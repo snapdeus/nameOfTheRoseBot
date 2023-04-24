@@ -1,0 +1,19 @@
+{
+  "name": "nameofrosebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.3.0",
+    "dotenv": "^16.0.3",
+    "node-cron": "^3.0.2",
+    "quick.db": "^9.1.6",
+    "twitter-api-v2": "^1.14.2"
+  }
+}
